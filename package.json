@@ -1,25 +1,25 @@
 {
-  "name": "jd-union-node-sdk",
+  "name": "jd-kpl-node-sdk",
   "version": "1.0.0",
-  "description": "JD union node sdk",
+  "description": "JD KPL node sdk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/everywill/jd-union-node-sdk.git"
+    "url": "git+https://github.com/tiant167/jd-union-node-sdk.git"
   },
   "keywords": [
     "JD-union",
     "SDK"
   ],
-  "author": "everywill",
+  "author": "tiant167",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/everywill/jd-union-node-sdk/issues"
+    "url": "https://github.com/tiant167/jd-union-node-sdk/issues"
   },
-  "homepage": "https://github.com/everywill/jd-union-node-sdk#readme",
+  "homepage": "https://github.com/tiant167/jd-union-node-sdk#readme",
   "devDependencies": {
     "eslint": "^5.11.0",
     "eslint-plugin-node": "^8.0.0"
